@@ -8,7 +8,7 @@ Aspring Java Backend Developer | Ex-intern | Revature
 - 🌱 I’m currently learning SpringBoot, Microservices
 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sathiyadevn/)
 - 😄 Pronouns: Noobie
 
 
