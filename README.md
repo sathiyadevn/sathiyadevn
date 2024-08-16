@@ -23,7 +23,7 @@ Aspring Java Backend Developer | Ex-intern | Revature
 
   <img src="https://resilience4j.readme.io/img/resilience4j-logo.png" alt="resilience4j" width="40" height="40"/> 
 
-
+ <img height="50" width="50" src="https://img.icons8.com/color/50/000000/zipkin.png" alt="zipkin"/>
  
   <img src="https://raw.githubusercontent.com/openzipkin/zipkin/master/zipkin-ui/src/assets/img/zipkin-logo.png" alt="zipkin" width="40" height="40"/> 
 
