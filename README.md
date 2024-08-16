@@ -35,4 +35,13 @@ Aspring Java Backend Developer | Ex-intern | Revature
 
 [![sathiyadev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathiyadevn&bg_color=0a0005&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+<a href="https://github.com/sathiyadevn">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathiyadevn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathiyadevn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathiyadevn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathiyadevn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathiyadevn" height="180em" />
+</div>
+
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyadevn" alt="sathiyadevn" /></p>
