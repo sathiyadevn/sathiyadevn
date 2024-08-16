@@ -19,6 +19,9 @@ Aspring Java Backend Developer | Ex-intern | Revature
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> 
+<a href="https://resilience4j.readme.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://resilience4j.readme.io/img/resilience4j-logo.png" alt="resilience4j" width="40" height="40"/> 
+</a>
 
   <a href="https://zipkin.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/openzipkin/zipkin/master/zipkin-ui/src/assets/img/zipkin-logo.png" alt="zipkin" width="40" height="40"/> 
