@@ -20,17 +20,11 @@ Aspring Java Backend Developer | Ex-intern | Revature
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> <a href="https://resilience4j.readme.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/resilience4j/resilience4j/master/resilience4j-logo.png" alt="resilience4j" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/projects/spring-cloud-netflix" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-cloud/master/spring-cloud-netflix/src/main/resources/static/eureka-server.png" alt="eureka-server" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/projects/spring-cloud-config" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-cloud-config/master/spring-cloud-config-logo.png" alt="spring-cloud-config" width="40" height="40"/> 
-</a>
-<a href="https://zipkin.io" target="_blank" rel="noreferrer"> 
+</a> <a href="https://spring.io/projects/spring-cloud-netflix" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/spring-projects/spring-cloud/master/spring-cloud-netflix/src/main/resources/static/eureka-server.png" alt="eureka-server" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-cloud-config" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/spring-projects/spring-cloud-config/master/spring-cloud-config-logo.png" alt="spring-cloud-config" width="40" height="40"/> </a><a href="https://zipkin.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/openzipkin/zipkin/master/zipkin-ui/src/assets/img/zipkin-logo.png" alt="zipkin" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/projects/spring-cloud-gateway" target="_blank" rel="noreferrer"> 
+</a><a href="https://spring.io/projects/spring-cloud-gateway" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/spring-cloud/spring-cloud-gateway/master/spring-cloud-gateway-docs/src/main/resources/static/img/gateway.png" alt="spring-cloud-gateway" width="40" height="40"/> 
 </a>
 
