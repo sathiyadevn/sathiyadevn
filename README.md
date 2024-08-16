@@ -56,5 +56,13 @@ Aspring Java Backend Developer | Ex-intern | Revature
   </table>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://github.com/sathiyadevn">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathiyadevn" alt="Profile Details" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyadevn" alt="Streak Stats" />
+</div>
+
+
 
 
